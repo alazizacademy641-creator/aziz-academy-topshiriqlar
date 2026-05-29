@@ -1,0 +1,1 @@
+print("Natija: 42")
