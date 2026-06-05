@@ -1,0 +1,1 @@
+print("Stop" if input() == "red" else "Unknown")
