@@ -1,0 +1,1 @@
+print("Mon" if int(input()) == 1 else "Other")
