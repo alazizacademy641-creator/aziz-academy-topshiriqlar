@@ -1,0 +1,1 @@
+print("Hello" if int(input()) == 1 else "Invalid")
