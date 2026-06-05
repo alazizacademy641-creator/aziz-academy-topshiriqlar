@@ -1,0 +1,1 @@
+print("Salom" if input() == "uz" else "Unknown language")
