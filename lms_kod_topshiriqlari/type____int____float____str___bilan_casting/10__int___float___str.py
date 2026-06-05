@@ -1,0 +1,1 @@
+print(str(float(int(input()))))
