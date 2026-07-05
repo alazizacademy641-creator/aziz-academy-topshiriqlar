@@ -1,0 +1,6 @@
+gap = input()
+tozalangan = gap.replace(",", " ")
+sozlar_royxati = tozalangan.split()
+yangi_gap = " ".join(sozlar_royxati)
+print(yangi_gap)
+print(len(sozlar_royxati))
