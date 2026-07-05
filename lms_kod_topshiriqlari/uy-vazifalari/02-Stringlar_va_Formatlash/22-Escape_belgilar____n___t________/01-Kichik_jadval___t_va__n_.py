@@ -1,0 +1,5 @@
+a = input()
+b = input()
+c = input()
+d = input()
+print(f"Ism\tYosh\n{a}\t{b}\n{c}\t{d}")
