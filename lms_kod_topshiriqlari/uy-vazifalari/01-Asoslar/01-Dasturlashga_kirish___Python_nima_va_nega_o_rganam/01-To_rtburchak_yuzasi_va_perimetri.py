@@ -1,6 +1,8 @@
 en = int(input())
-boy = int(input())
-yuza = en * boy
-perimetr = 2 * (en + boy)
+bo_y = int(input())
+
+yuza = en * bo_y
+perimetr = 2 * (en + bo_y)
+
 print(yuza)
 print(perimetr)
